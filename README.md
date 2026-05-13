@@ -16,13 +16,13 @@ There is absolutely no reason why citizens should be excluded from participating
 A concept based on real tax fund spending in Sweden, designed to highlight the transparency issue within our governments.
 
 ## Key Questions
-
 - Donations — How much is donated, and to whom?
 - Military — How much is spent on defense?
 - Undisclosed — How much spending remains hidden from the public?
 - Healthcare — What portion goes toward public health?
 - Political welfare — How much funds political institutions and officials?
-- Public sector & state-owned companies — What are executives and officials paid with public money?
+- Public sector — Where does the money go?
+- Public broadcasting — How is our mandatory fee to SVT & SR spent?
 - Schools — What is invested in education?
 - Immigration — How are immigration-related funds allocated?
 - Unemployment — What is spent on unemployment benefits and related support?
